@@ -1,6 +1,12 @@
-- 👋 Hi, We are @hootsecurity
-- 👀 We are interested in Cyber Defence across CNI!
-- 📫 Connect with us at www.hootsecurity.co
+- 👋 Hi, We are @hootsecurity, welcome to our collab repo on GitHub :octocat:
+- 👀 We are passionate protectors focused on Cyber Defence across Critical Infrastructure and High Value Targets
+- 👾 If you're a tester, engineer, or analyst that wants to contribute to our github projects, reach out to us at team@hootsecurity.co 
+  
+- 📫 Check out our service offerings at www.hootsecurity.co
+
+Ever Watchful, Hoot Team
+🦉🦉🦉🦉🦉🦉🦉
+
 
 <!---
 hootsecurity/hootsecurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
